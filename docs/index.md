@@ -11,10 +11,7 @@
 This is **Ansh Sachdeva** (aka *root-ansh* ) , a Software Dev from New Delhi,India.  
 I have deep passions for Android App Development, Programming in python, and Data Analysis/Deep Learning.  
 
-Sometime ago ,I received [Google certification as an Associate Android Developer](https://root-ansh.github.io/tab_edu/edu_details/#academic).
-
-!!! quote "Motto"
-    *Full of curiosities and ambitions, I am here to leave a mark in the world, by building something bigger than myself, for the betterment of humanity*
+Sometime ago, I received [Google certification as an Associate Android Developer](https://root-ansh.github.io/tab_edu/edu_details/#academic).
 
 [My resume can be found here](https://drive.google.com/file/d/1BpPzQY-GZvQwoQhw07bbt4eEhHhtMjAq/view){ .md-button }  
 
@@ -53,6 +50,9 @@ Once again, Welcome to my website, feel free to explore my Professional Career S
 </a>
 
 </p>
+
+!!! quote "Motto"
+    *Full of curiosities and ambitions, I am here to leave a mark in the world, by building something bigger than myself, for the betterment of humanity*
 
 
 	  
