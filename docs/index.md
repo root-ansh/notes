@@ -16,7 +16,9 @@ Sometime ago ,I received [Google certification as an Associate Android Developer
 !!! quote "Motto"
     *Full of curiosities and ambitions, I am here to leave a mark in the world, by building something bigger than myself, for the betterment of humanity*
 
-[**My resume can be found here**](https://drive.google.com/file/d/1BpPzQY-GZvQwoQhw07bbt4eEhHhtMjAq/view). I also love to share my experiments and findings in the mysterious world of android and tech in general, which are mentioned [here](https://root-ansh.github.io/tab_blogs/bloglist/)  and [here](https://root-ansh.github.io/tab_notes/blog_summary/).  
+[My resume can be found here](https://drive.google.com/file/d/1BpPzQY-GZvQwoQhw07bbt4eEhHhtMjAq/view){ .md-button }  
+
+I also love to share my experiments and findings in the mysterious world of android and tech in general, which are mentioned [here](https://root-ansh.github.io/tab_blogs/bloglist/)  and [here](https://root-ansh.github.io/tab_notes/blog_summary/).  
 
 Once again, Welcome to my website, feel free to explore my Professional Career Summary!
 

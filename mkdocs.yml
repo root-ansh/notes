@@ -35,6 +35,7 @@ markdown_extensions:
   - markdown.extensions.admonition
   - pymdownx.superfences
   - pymdownx.emoji
+  - attr_list
 
 extra:
   disqus: root-ansh
