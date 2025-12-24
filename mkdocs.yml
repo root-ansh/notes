@@ -53,9 +53,6 @@ extra:
 
 nav:
   - About Me: index.md
-  - Education Details: tab_edu/edu_details.md
-  - Work Experience: tab_work_exp/work_exp.md
-  - Portfolio: tab_projects/project_summary.md
   - Blogs: tab_blogs/bloglist.md
   - Notes:
       - Introduction : tab_notes/blog_summary.md
